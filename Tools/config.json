@@ -1,0 +1,8 @@
+{
+	"minimum_amount": 500,
+	"auto_join": true,
+	"webhook_enabled": true,
+	"webhook": "",
+	"webhook_ping": "",
+	"notifications_enabled": true
+}

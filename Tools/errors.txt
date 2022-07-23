@@ -1,0 +1,4 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): rest-bf.blox.land:443
+DEBUG:urllib3.connectionpool:https://rest-bf.blox.land:443 "GET /chat/history HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): rest-bf.blox.land:443
+DEBUG:urllib3.connectionpool:https://rest-bf.blox.land:443 "GET /chat/history HTTP/1.1" 200 None
